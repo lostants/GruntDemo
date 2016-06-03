@@ -11,7 +11,7 @@ Download the [production version][min] or the [development version][max].
 In your web page:
 
 ```html
-<script src="jquery.js"></script>
+<script src="jquery.js"></script>//jquery is necessory
 <script src="dist/GruntDemo.min.js"></script>
 <script>
 jQuery(function($) {
